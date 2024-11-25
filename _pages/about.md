@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor in [Computer Science](https://cse.iith.ac.in/) at [IIT-Hyderabad](https://iith.ac.in/). 
+I am currently an ML Engineer at [AstraZeneca](https://www.astrazeneca.com). 
 
-<!-- I received my Ph.D. in computer science from University of Edinburgh, advised by [Myungjin Lee](https://www.linkedin.com/in/myungjin-lee-5308136). Prior, I was a post doctoral researcher at [Princeton University](https://www.princeton.edu/), USA, worked with [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/). -->
 
-I lead [NetX lab](https://www.netxiith.in/). My group works at the intersection of **Systems, Networks, and Security**. Our focus is on designing and building networked systems that make networks easy to manage, secure, and robust, by using exciting emerging technologies such as Software-Defined Networking and Programmable Data Planes (P4, eBPF, smartNICs, PISA switch)
+I hold a B.Tech degree in Computer Science from VIT University, My research interests primarily lie in the intersection of  **Applied ML Research, Trustworthy AI and Generative Modelling**. My work focusses on building Intelligent systems for Life-science and Medical Industry, by using emerging technologies such as using custom Neural Network Architectures and Applied Mathematics.
 
-I am actively looking for full time candidates to work on some exciting research problems in the above areas for atleast one year. If you are interested, please apply by filling [this](https://forms.gle/Cq2EBi48TTe27yKWA) form. We will screen the applications and get back to you.
+I have worked with [Dr. Venkata Phanikrishna B](https://sites.google.com/view/venkataphanikrishnab/) in modelling 1D EEG Signals and sucessfully completed a funded project in VIT from [GloballyGI](https://www.globallygi.com) on Calorie Prediction using images.
 
-Contact email id: praveent at cse dot iith dot ac dot in  
+Contact email id: sujaykumar dot reddym at gmail dot com
 
 ## Publications
 <div style="width: 1200px;">
@@ -51,35 +50,7 @@ Contact email id: praveent at cse dot iith dot ac dot in
 [Full list here](/publications)
 
 
-## Technical Program Committee
-* 2023: [APNet](https://conferences.sigcomm.org/events/apnet2023/), [IEEE ICNP](https://icnp23.cs.ucr.edu/), [ACM CoNEXT Posters](https://conferences.sigcomm.org/co-next/2023/#!/posters)
-* 2022: [IEEE ICNP](https://icnp22.cs.ucr.edu/), [APNet](https://conferences.sigcomm.org/events/apnet2022/index.html)
-* 2021: [ACM/IEEE ANCS](https://ancsconf.org/)
 
-## Organizing Committee
-* 2022: [ACM SIGMETRICS PerfNA Workshop](https://perfna2022.cse.iith.ac.in/)
-* 2021: [IEEE ANTS Tutorials](https://ants2021.ieee-comsoc-ants.org/authors/tutorials/)
-
-## Current students
-* [Ranjitha](https://www.linkedin.com/in/ranjitha-k-9b802823/), PhD, PMRF
-* [Harish](https://www.linkedin.com/in/harishsa85/), PhD, PMRF
-* [Shiv Kumar](https://www.linkedin.com/in/shivkumar301), PhD, jointly with Dr. Ramakrishna
-* [Prashanth](), PhD, TiHAN
-* [Praveen Chandrahas](), PhD
-* [Sanyan Dey](https://www.linkedin.com/in/sayandey19), Mtech (RA), jointly with Dr. Ramakrishna
-* [Divya](https://www.linkedin.com/in/divyapathak24/), MTech (RA), IBM IRL Intern
-* [Sankalp](https://github.com/sankalpmittal1911-BitSian), MTech (RA)
-* [Ankith](), MTech (RA)
-* [Animesh](), MTech (RA), jointly with Dr. Ramakrishna
-* [Yuvraj](), MTech (RA)
-* [Mahanth](), MTech (TA)
-* [Medha](), MTech (TA)
-
-## Alumini
-* [Dhiraj Saharia](https://www.linkedin.com/in/dhiraj-saharia/), Research Associate --> PhD, Georgetown, Washington DC, USA
-* [Prem Kumar](https://in.linkedin.com/in/prem-kumar-84316b6b), MTech (TA)
-* [Ramya](https://www.linkedin.com/in/ramya-b-y-2b3721182), MTech (TA) --> Apple, India
-* [Shubham Lahoti](https://www.linkedin.com/in/shubham-l-a0b1b9105/), MTech (TA) --> Oracle, India
 
 <!-- [Full list here](/students) -->
 
