@@ -24,13 +24,15 @@ Contact email id: sujaykumar dot reddym at gmail dot com
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Graph ML Intern </span><br/>
 <strong>AstraZeneca (R&D IT)</strong>, February 2024 - Present<br/>
-Deep Synergy Prediction (<a href="https://github.com/sujaykumarmag/DSP">DSP</a>) introduces a novel approach for the Drug-Drug Interaction Task, leveraging a multi-head GIN-GAT network known as Multi-Deep DDS. Benchmarked on ULTRA3G, it assesses performance metrics such as MRR (Mean Reciprocal Rank) and Hits@10.
+<p style="padding-left: 40px; text-align: justify;">
+Deep Synergy Prediction (<a href="https://github.com/sujaykumarmag/DSP">DSP</a>) introduces a novel approach for the Drug-Drug Interaction Task, leveraging a multi-head GIN-GAT network known as Multi-Deep DDS. Benchmarked on ULTRA3G, it assesses performance metrics such as MRR (Mean Reciprocal Rank) and Hits@10.</p>
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Research Intern </span><br/>
 <strong>National Institute of Technology, Calicut</strong>, May 2023 - July 2023<br/>
-Under the PM Gati-Shakti Scheme at <a href="https://nitc.ac.in/multidiscilplinary-centres/centre-of-excellence-in-logistics-and-supply-chain-management">NIT Calicut, Pragati</a>, addressed the problem of forecasting electricity demand in the Delhi region. Employed ML algorithms, processed reports from various ministries into datasets, and utilized time series forecasting, feature extraction, and models like Ridge and Lasso Regression.
+<p style="padding-left: 40px; text-align: justify;">
+Under the PM Gati-Shakti Scheme at <a href="https://nitc.ac.in/multidiscilplinary-centres/centre-of-excellence-in-logistics-and-supply-chain-management">NIT Calicut, Pragati</a>, addressed the problem of forecasting electricity demand in the Delhi region. Employed ML algorithms, processed reports from various ministries into datasets, and utilized time series forecasting, feature extraction, and models like Ridge and Lasso Regression.</p>
 </li>
 
 </ul>

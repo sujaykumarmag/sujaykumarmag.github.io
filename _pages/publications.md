@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<div style="width: 1200px;">
+<div style="width: 120px;">
 <ul>
 
 <li style="margin-bottom: 10px;">
