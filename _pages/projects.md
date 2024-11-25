@@ -14,7 +14,7 @@ author_profile: true
 
 
 <ul>
-<li><strong>3D Object Recognition</strong> - Github [<a href="https://github.com/sujaykumarmag/3d-object-recognition">Github</a>] </li> 
+<li><strong>3D Object Recognition</strong> - [<a href="https://github.com/sujaykumarmag/3d-object-recognition">Github</a>] </li> 
 </ul>
 
 <p style="padding-left: 40px; text-align: justify;"> This project aimed for 3D Object Recognition using the LiDAR sensor an improvement on Complex-YOLO, a real-time 3D object detection network designed exclusively for point clouds fine-tuned by the YOLO-NAS model. </p>
