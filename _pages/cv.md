@@ -11,23 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D, University of Edinburgh, 2013-18
-* Masters in Computer Science, IIT-Madras, 2009-11
-* B.E. in Computer Science, Vasavi College of Engg., OU, 2005-09
+* B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, Vellore, 2020-24
 
-Research/work experience
+Awards and Recognition
 ======
-* May 2018-July 2020: Postdoctoral Researcher
-  * Princeton University
-  * Hosts: [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) and [David Walker](https://www.cs.princeton.edu/~dpw/).
+* Funded Project Completion
+  * iPLate Completion for AI based Calorie Estimation: [GloballyGi](https://www.globallygi.com) (Algorithm Team).
 
-* May 2016-May 2017: Research Intern
-  * Cisco Systems, San Jose, USA
-  * Hosts: [Dr. Raman Kompella](https://www.linkedin.com/in/rkompella/), [Dr. Sundhar Iyer](https://www.linkedin.com/in/sundariyer/) 
+* SAINYA RANAKSHETRAM 2.0
+  * Recognized as Finalist at the National Army Hackathon for audio through Deep Learning (Solo Teammate)
 
-* Aug 2011-Jul 2013: Software Engineer
-  * Juniper Networks, India
-  * Intel Technology, India
+* Devboomi 2.0
+  * Recognized as Finalist at IIT Roorkee Cyber Hackathon (Solo Teammate)
 
 
 <!--- Skills

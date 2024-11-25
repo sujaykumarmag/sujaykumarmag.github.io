@@ -17,7 +17,7 @@ I have worked with [Dr. Venkata Phanikrishna B](https://sites.google.com/view/ve
 
 Contact email id: sujaykumar dot reddym at gmail dot com
 
-## Publications
+## Work Experience
 <div style="width: 1200px;">
 <ul>
 
@@ -47,7 +47,9 @@ Contact email id: sujaykumar dot reddym at gmail dot com
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br/> <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html"> ACM SIGCOMM SPIN </a>, Aug 2021 [<a title="p4anamoly" href="publications/P4anamoly-spin-final.pdf">pdf</a>] [<a href="/talks/SPIN'21-p4anamoly.pptx">slides</a>] </li>
 </ul>
 </div>
-[Full list here](/publications)
+
+
+<!-- [Full list here](/publications) -->
 
 
 
