@@ -12,11 +12,6 @@ main:
 
   - title: "Bio"
     url: /cv/ 
-
-  - title: "Teaching"
-    url: /teaching/
-
-
     
   #- title: "Portfolio"
   #  url: /portfolio/
