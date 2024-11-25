@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-<div style="width: 120px;">
 <ul>
 
 <li style="margin-bottom: 10px;">
@@ -52,7 +51,6 @@ M.S. Reddy, G. Gopakumar <br />
 </li>
 
 </ul>
-</div>
 
 
 <!-- 
