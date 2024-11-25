@@ -12,7 +12,7 @@ author_profile: true
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">PM-Gati Shakti: A Case Study of Demand Forecasting</span><br/> 
 M.S. Reddy, G. Gopakumar <br /> 
-<a href="https://www.preprints.org/manuscript/202308.0535/v1">Preprints</a>, 2023  [<a title="pdf" href="stats.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">pdf</a>]
+<a href="https://www.preprints.org/manuscript/202308.0535/v1">Preprints</a>, 2023  [<a title="pdf" href="stats.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">code</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -30,7 +30,7 @@ H. Karnati, M.S. Reddy <br />
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Transformer based Federated Learning Models for Recommendation Systems</span><br/> 
 M.S. Reddy, H. Karnati, L.M. Sundari <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10630471">IEEE Access</a>, 2024 [<a title="pdf" href="fl.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/Transformer_FL">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10630471">IEEE Access</a>, 2024 [<a title="pdf" href="fl.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/Transformer_FL">code</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
@@ -42,13 +42,13 @@ M.S.K. Reddy, P.S. Thota <br />
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Workshop Report on Generative AI-Based Software Engineering</span><br/> 
 R. Naik, A. Rajbhoj, M. Patwardhan, R.K. Medicherla <br /> 
-<a href="https://dl.acm.org/doi/abs/10.1145/3641399.3641437">17th Innovations in Software Engineering Conference</a>, 2024 [<a title="pdf" href="rag.pdf">pdf</a>][<a title="code" href="https://github.com/sujaykumarmag/RAG_LLM">pdf</a>]
+<a href="https://dl.acm.org/doi/abs/10.1145/3641399.3641437">17th Innovations in Software Engineering Conference</a>, 2024 [<a title="pdf" href="rag.pdf">pdf</a>][<a title="code" href="https://github.com/sujaykumarmag/RAG_LLM">code</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Maximum Demand Forecasting in the Delhi Region Using Machine Learning</span><br/> 
 M.S. Reddy, G. Gopakumar <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10435064">2023 International Conference on the Confluence of Advancements in Robotics</a>, 2023 [<a title="pdf" href="forecast.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10435064">2023 International Conference on the Confluence of Advancements in Robotics</a>, 2023 [<a title="pdf" href="forecast.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">code</a>]
 </li>
 
 </ul>
