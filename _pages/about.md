@@ -18,7 +18,7 @@ I have worked with [Dr. Venkata Phanikrishna B](https://sites.google.com/view/ve
 Contact email id: sujaykumar dot reddym at gmail dot com
 
 ## Work Experience
-<div style="width: 1200px;">
+
 <ul>
 
 <li style="margin-bottom: 10px;">
@@ -36,7 +36,7 @@ Under the PM Gati-Shakti Scheme at <a href="https://nitc.ac.in/multidiscilplinar
 </li>
 
 </ul>
-</div>
+
 
 
 <!-- 
