@@ -21,6 +21,26 @@ Contact email id: sujaykumar dot reddym at gmail dot com
 <div style="width: 1200px;">
 <ul>
 
+<li style="margin-bottom: 10px;">
+<span style="color: #008080;">Graph ML Intern </span><br/>
+<strong>AstraZeneca (R&D IT)</strong>, February 2024 - Present<br/>
+Deep Synergy Prediction (<a href="https://github.com/sujaykumarmag/DSP" style="color: blue;">DSP</a>) introduces a novel approach for the Drug-Drug Interaction Task, leveraging a multi-head GIN-GAT network known as Multi-Deep DDS. Benchmarked on ULTRA3G, it assesses performance metrics such as MRR (Mean Reciprocal Rank) and Hits@10.
+</li>
+
+<li style="margin-bottom: 10px;">
+<span style="color: #008080;">Research Intern </span><br/>
+<strong>National Institute of Technology, Calicut</strong>, May 2023 - July 2023<br/>
+Under the PM Gati-Shakti Scheme at <a href="https://nitc.ac.in/multidiscilplinary-centres/centre-of-excellence-in-logistics-and-supply-chain-management" style="color: blue;">NIT Calicut, Pragati</a>, addressed the problem of forecasting electricity demand in the Delhi region. Employed ML algorithms, processed reports from various ministries into datasets, and utilized time series forecasting, feature extraction, and models like Ridge and Lasso Regression.
+</li>
+
+</ul>
+</div>
+
+
+<!-- 
+<div style="width: 1200px;">
+<ul>
+
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Anamoly Detection in In-Network Fast ReRoute Systems </span><br/> Divya Pathak, Harish SA, Prathyush, Dilip, Praveen Tammana <br /><a href="https://networking.ifip.org/2024/index.php"> IFIP/Networking'24 </a>,Greece, June 2024 [<a title="p4anamoly" href="publications/frrsec.pdf">pdf</a>]</li>
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">AdaFlow: Efficient In-Network Traffic Classification using Programmable Switches </span><br/> Sankalp Mittal, Kotha Harshith, Anand, Praveen Tammana <br /><a href="https://networking.ifip.org/2024/index.php"> IFIP/Networking'24 </a>,Greece, June 2024 [<a title="p4security" href="publications/AdaFlow.pdf">pdf</a>]</li>
@@ -46,7 +66,7 @@ Contact email id: sujaykumar dot reddym at gmail dot com
 
 <li style="margin-bottom: 10px;"><span style="color: #008080;">Anomaly Detection in Data Plane Systems using Packet Execution Paths</span><br />Archit Sanghi, Krishna P. Kadiyala, <strong>Praveen Tammana</strong>, Saurabh Joshi<br/> <a href="https://conferences.sigcomm.org/sigcomm/2021/workshop-spin.html"> ACM SIGCOMM SPIN </a>, Aug 2021 [<a title="p4anamoly" href="publications/P4anamoly-spin-final.pdf">pdf</a>] [<a href="/talks/SPIN'21-p4anamoly.pptx">slides</a>] </li>
 </ul>
-</div>
+</div> -->
 
 
 <!-- [Full list here](/publications) -->
