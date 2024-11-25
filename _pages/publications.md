@@ -12,43 +12,43 @@ author_profile: true
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">PM-Gati Shakti: A Case Study of Demand Forecasting</span><br/> 
 M.S. Reddy, G. Gopakumar <br /> 
-<a href="https://www.preprints.org/manuscript/202308.0535/v1">Preprints</a>, 2023 [<a title="pdf" href="#">pdf</a>]
+<a href="https://www.preprints.org/manuscript/202308.0535/v1">Preprints</a>, 2023  [<a title="pdf" href="stats.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">pdf</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Comprehensive Analysis of BB84, A Quantum Key Distribution Protocol</span><br/> 
 M.S. Reddy, C. Mohan B <br /> 
-<a href="https://arxiv.org/abs/2312.05609">CoRR</a>, 2023 [<a title="pdf" href="#">pdf</a>]
+<a href="https://arxiv.org/abs/2312.05609">CoRR</a>, 2023  [<a title="pdf" href="bb84.pdf">pdf</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Enhancing Diagnostic Accuracy in Medical Imaging: Integrating GAN-Based Data Augmentation for Balanced Dataset Creation</span><br/> 
 H. Karnati, M.S. Reddy <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10649058">2024 IEEE International Conference on Contemporary Computing and Applications</a>, 2024 [<a title="pdf" href="#">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10649058">2024 IEEE International Conference on Contemporary Computing and Applications</a>, 2024 [<a title="pdf" href="gan.pdf">pdf</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Transformer based Federated Learning Models for Recommendation Systems</span><br/> 
 M.S. Reddy, H. Karnati, L.M. Sundari <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10630471">IEEE Access</a>, 2024 [<a title="pdf" href="#">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10630471">IEEE Access</a>, 2024 [<a title="pdf" href="fl.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/Transformer_FL">pdf</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Reverse Engineering of Android Malware Classification Using Semi-Supervised Learning</span><br/> 
 M.S.K. Reddy, P.S. Thota <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10717122">2024 10th International Conference on Advanced Computing and Communication Technologies</a>, 2024 [<a title="pdf" href="#">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10717122">2024 10th International Conference on Advanced Computing and Communication Technologies</a>, 2024 [<a title="pdf" href="malware.pdf">pdf</a>] 
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Workshop Report on Generative AI-Based Software Engineering</span><br/> 
 R. Naik, A. Rajbhoj, M. Patwardhan, R.K. Medicherla <br /> 
-<a href="https://dl.acm.org/doi/abs/10.1145/3641399.3641437">17th Innovations in Software Engineering Conference</a>, 2024 [<a title="pdf" href="#">pdf</a>]
+<a href="https://dl.acm.org/doi/abs/10.1145/3641399.3641437">17th Innovations in Software Engineering Conference</a>, 2024 [<a title="pdf" href="rag.pdf">pdf</a>][<a title="code" href="https://github.com/sujaykumarmag/RAG_LLM">pdf</a>]
 </li>
 
 <li style="margin-bottom: 10px;">
 <span style="color: #008080;">Maximum Demand Forecasting in the Delhi Region Using Machine Learning</span><br/> 
 M.S. Reddy, G. Gopakumar <br /> 
-<a href="https://ieeexplore.ieee.org/abstract/document/10435064">2023 International Conference on the Confluence of Advancements in Robotics</a>, 2023 [<a title="pdf" href="#">pdf</a>]
+<a href="https://ieeexplore.ieee.org/abstract/document/10435064">2023 International Conference on the Confluence of Advancements in Robotics</a>, 2023 [<a title="pdf" href="forecast.pdf">pdf</a>] [<a title="code" href="https://github.com/sujaykumarmag/delhi_electricity_forecasting">pdf</a>]
 </li>
 
 </ul>

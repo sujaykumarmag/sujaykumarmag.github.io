@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sujaykumar Reddy M"
+title                    : "SujayKumar Reddy M"
 title_separator          : "-"
-name                     : &name "Sujaykumar Reddy M"
+name                     : &name "SujayKumar Reddy M"
 description              : &description "ML Engineer at AstraZeneca"
 url                      : https://sujaykumarmag.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
